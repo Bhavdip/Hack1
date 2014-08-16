@@ -1,0 +1,22 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.takeuse.hack1.MainActivity" >
+
+    <item
+        android:id="@+id/action_startservice"
+        android:title="@string/action_start_service"/>
+    <item
+        android:id="@+id/action_stopservice"
+        android:title="@string/action_stop_service"/>
+    <item
+        android:id="@+id/action_bind_service"
+        android:title="@string/action_bind_service"/>
+    <item
+        android:id="@+id/action_unbind_service"
+        android:title="@string/action_unbind_service"/>
+	<item
+        android:id="@+id/action_send_message"
+        android:title="@string/action_send_message"/>
+    
+</menu>

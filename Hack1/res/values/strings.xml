@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Hack1</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_start_service">Start Service</string>
+    <string name="action_stop_service">Stop Service</string>
+    <string name="action_bind_service">Bind Service</string>
+    <string name="action_unbind_service">UnBind Service</string>
+    <string name="action_send_message">Send Message</string>
+    
+
+</resources>

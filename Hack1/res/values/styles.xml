@@ -1,0 +1,13 @@
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <style name="Hack1.Widget.Actionbar" parent="android:Widget.Holo.Light.ActionBar">
+        <item name="android:background">@color/color_actionbar_background</item>
+        <!-- action bar title text style -->
+        <item name="android:titleTextStyle">@style/Hack1.Widget.TitleTextStyle</item>
+    </style>
+    
+    <style name="Hack1.Widget.TitleTextStyle" parent="@android:style/TextAppearance.Holo.Widget.ActionBar.Title">
+        <item name="android:textColor">@color/color_text_appearance_actionBar_title</item>
+    </style>
+    
+</resources>

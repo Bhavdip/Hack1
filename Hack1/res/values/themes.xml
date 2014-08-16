@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="hack1theme" parent="android:Theme.Holo.Light">
+        
+        <!--  actionbar background color style -->
+        <item name="android:actionBarStyle">@style/Hack1.Widget.Actionbar</item>
+        
+        <!-- remove the actionbar bottom shadow -->
+        <item name="android:windowContentOverlay">@null</item>
+        
+    </style>
+    
+</resources>
